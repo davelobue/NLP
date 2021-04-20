@@ -10,7 +10,7 @@ Part 3:  Unsupervised learning to identify latent document categories and hierar
 
 Part 4:  Generate novel/new text using artificial recurrent neural network (RNN) architecure:  Long short-term memory (LSTM) based on LDiA classifications.
 
-Languages & Packages: Python, Unix, Scrapy, BeautifulSoup, Sklearn, NLTK
+Languages & Packages: Python, Unix, Scrapy, BeautifulSoup, Sklearn, Tensorflow, Keras, NLTK
 
 Statistical, Machine Learning, Deep Learning Methods:  Transaction Frequency-Inverse Document Frequency(TF-IDF), Cosine Similarity, Linear Discriminant Analysis (LDA), Latent Dirichlet Allocation (LDiA), K-means, hierarchical clustering, Doc2Vec, Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM)
 
